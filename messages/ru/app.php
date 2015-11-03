@@ -102,6 +102,7 @@ return [
   'Admin Home' => 'Администрирование',
   'Admin Users' => 'Пользователи',
   'Admin Messages' => 'Сообщения',
+  'Admin Library' => 'Библиотека',
   'Admin Settings' => 'Настройки',
   'Admin Logout' => 'Выйти',
   //User Mailer
